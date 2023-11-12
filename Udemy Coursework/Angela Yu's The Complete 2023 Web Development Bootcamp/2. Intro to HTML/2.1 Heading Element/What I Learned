@@ -1,4 +1,4 @@
-HTML headers have different sizes and for screen readers and easy readability, you shouldn't jump sizes.
+HTML headers have different sizes and for screen readers and easy readability, you should avoid jump sizes when possible.
 
 Good Example:
 <h1>[Song Title]</h1>
