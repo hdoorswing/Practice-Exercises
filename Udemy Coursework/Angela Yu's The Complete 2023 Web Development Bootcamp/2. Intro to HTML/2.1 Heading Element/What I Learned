@@ -1,0 +1,17 @@
+HTML headers have different sizes and for screen readers and easy readability, you shouldn't jump sizes.
+
+Good Example:
+<h1>[Song Title]</h1>
+<h2>By: [Insert Artisist]</h2>
+<h3>Verse</h3>
+<h3>[Insert lyrics] Oh my gosh why are there so many lyrics?.</h3>
+<h3>Chorus</3>
+<h3>[Insert more lyrics] Why won't it end?!</h3>
+
+Bad Example:
+<h1>[Song Title]</h1>
+<h1>By: [Insert Artisist]</h1>
+<h4>Verse</h4>
+<h3>[Insert lyrics] We're doing this again?.</h3>
+<h4>Chorus</4>
+<h2>[Insert more lyrics] Ewwww. What happened to the font-size?</h2>
