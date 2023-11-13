@@ -1,0 +1,3 @@
+You can target elements, classes and IDs.
+This helps with specificty to make sure the CSS is targeting exactly what you want it to. 
+Classes can pertain to multiple objects/types of elements and can be used repeatedly while IDs are only used once for a set of elements.
