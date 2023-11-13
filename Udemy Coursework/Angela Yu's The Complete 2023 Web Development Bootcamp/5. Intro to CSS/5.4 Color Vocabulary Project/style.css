@@ -1,0 +1,29 @@
+/*normal changes the style of the font so it's less bolded*/
+#red {
+    color:  red;
+}
+
+#blue {
+    color: #4CB0FA ;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+.color-title {
+    font-weight: normal;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
